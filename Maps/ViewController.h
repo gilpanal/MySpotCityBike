@@ -26,7 +26,5 @@
 - (void)setCityBike:(id)newCityBike;
 - (void)setWonderAncient:(id)oldWonderWorld location:(CLLocation *)coordenates;
 
-
-
 @end
 
